@@ -16,7 +16,7 @@ to_user.occasion_id:	dịp tặng quà\
 to_user.relative_id:	mã mối quan hệ giữa người tặng và người được tặng\
 to_user_date:	thời gian giao quà\
 create_info.created:	ngày đặt quà\
-Sử dụng Excel, SQL để xử lý dữ liệu và truy vấn dữ liệu. Dùng ngôn ngữ Python với mô hình RFM kết hợp Kmean để chọn ra nhóm khách hàng chính mà sàn thương mại điện tử cần quan tâm.
+Sử dụng Excel, SQL để xử lý dữ liệu và truy vấn dữ liệu. Dùng ngôn ngữ Python với mô hình RFM kết hợp Kmean để chọn ra nhóm khách hàng chính mà sàn thương mại điện tử cần quan tâm. Từ đó, đưa ra các đề xuất giải pháp doanh nghiệp nhäm tăng cường nhu cầu quà tặng của nhóm khách hàng này trên nên tảng thương mại điện tử.
 
 An e-commerce platform specializing in flowers and gifts, to ensure stable profits and growth, the company strives to maintain customer loyalty by providing the best goods and services. After 4 years of operation, the company has obtained data including 6001 order information, thereby evaluating the operating situation, business results and analyzing the gift-giving needs of customers on the e-commerce platform by each customer segment.\
 Data includes:\
@@ -32,5 +32,5 @@ to_user.occasion_id: gift giving occasion\
 to_user.related_id: relationship code between donor and recipient\
 to_user_date: gift receipt date\
 create_info.created: gift order date\
-Use Excel, SQL to process data and query data. Use the Python language with the RFM model combined with Kmean to select the main customer groups that the e-commerce platform needs to care about.
+Use Excel, SQL to process data and query data. Use the Python language with the RFM model combined with Kmean to select the main customer groups that the e-commerce platform needs to care about. From there, propose business solutions to increase the gift needs of this customer group on the e-commerce platform.
 
